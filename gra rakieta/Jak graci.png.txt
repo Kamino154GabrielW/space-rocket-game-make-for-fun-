@@ -1,0 +1,12 @@
+kontrolki
+
+prawo [prawa strzałka]
+lewo  [lewa strzałka]
+odpalajonc przez idle morzna zobaczyci końcow czas , punkty , sposub śmierci
+
+
+obiekty
+
+gwiazda twym przjacielem lub wrogiem
+Unikaj asterojid , kul plazmy , komet (bo cie zniszczom)   
+unikaj mgławic(bo stracisz widoczności)
